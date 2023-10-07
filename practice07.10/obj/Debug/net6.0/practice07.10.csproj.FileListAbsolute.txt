@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\practice07.10\practice07.10\bin\Debug\net6.0\practice07.10.exe
+C:\Users\hp\source\repos\practice07.10\practice07.10\bin\Debug\net6.0\practice07.10.deps.json
+C:\Users\hp\source\repos\practice07.10\practice07.10\bin\Debug\net6.0\practice07.10.runtimeconfig.json
+C:\Users\hp\source\repos\practice07.10\practice07.10\bin\Debug\net6.0\practice07.10.dll
+C:\Users\hp\source\repos\practice07.10\practice07.10\bin\Debug\net6.0\practice07.10.pdb
+C:\Users\hp\source\repos\practice07.10\practice07.10\obj\Debug\net6.0\practice07.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\practice07.10\practice07.10\obj\Debug\net6.0\practice07.10.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\practice07.10\practice07.10\obj\Debug\net6.0\practice07.10.AssemblyInfo.cs
+C:\Users\hp\source\repos\practice07.10\practice07.10\obj\Debug\net6.0\practice07.10.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\practice07.10\practice07.10\obj\Debug\net6.0\practice07.10.dll
+C:\Users\hp\source\repos\practice07.10\practice07.10\obj\Debug\net6.0\refint\practice07.10.dll
+C:\Users\hp\source\repos\practice07.10\practice07.10\obj\Debug\net6.0\practice07.10.pdb
+C:\Users\hp\source\repos\practice07.10\practice07.10\obj\Debug\net6.0\practice07.10.genruntimeconfig.cache
+C:\Users\hp\source\repos\practice07.10\practice07.10\obj\Debug\net6.0\ref\practice07.10.dll
